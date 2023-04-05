@@ -1,4 +1,4 @@
-# Mornitoring System using PLC, Node-Red and SVG for Industry 4.0@AIC 
+# Industry 4.0@AIC 
 
 
 
