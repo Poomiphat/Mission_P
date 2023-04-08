@@ -6,6 +6,11 @@
 
 
 
+
+
+
+
+
 | Name | Age | Location |
 |------|-----|----------|
 | John | 25 | New York |
