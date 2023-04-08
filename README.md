@@ -1,6 +1,7 @@
 # Industry 4.0@AIC 
 
 
+![7B6690B1-C246-4D05-B531-0963463A7620](https://user-images.githubusercontent.com/81687385/230735958-67c18a5b-b558-4601-888c-ad535a7204b3.jpg)
 
 
 
@@ -9,7 +10,6 @@
 
 
 
-![messageImage_1680625844634](https://user-images.githubusercontent.com/81687385/229857609-d0b5d30f-0371-4133-9201-aae6f6bce9b9.jpg)
 
 
 
