@@ -6,7 +6,11 @@
 
 
 
-
+| Name | Age | Location |
+|------|-----|----------|
+| John | 25 | New York |
+| Mary | 30 | Los Angeles |
+| Tom | 28 | Chicago |
 
 
 
