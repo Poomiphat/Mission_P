@@ -9,7 +9,7 @@ Developed by 62050216 Poomipat, A student in Embedded System Engineering at Bura
 
 
 
-* [Introduction](#introduction)
+* This is a point with an asterisk
 
 | Name | Age | Location |Location |
 |------|-----|----------|----------|
