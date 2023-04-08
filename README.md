@@ -1,5 +1,5 @@
 # Industry 4.0@AIC: Animation Dashboard on Node-Red 
-Moritoring System Project using PLC(Mitsubishi FX5U-32MR/ES ), Modbus protocol and SVG graphics to create a real-time animation dashboard on Node-RED for process monitoring in Industry 4.0 Developed by 62050216 Poomipat, A student in Embedded System Engineering at Burapha University.
+Moritoring System Project using PLC(Mitsubishi FX5U-32MR/ES), Modbus protocol and SVG graphics to create a real-time animation dashboard on Node-RED for process monitoring in Industry 4.0 Developed by 62050216 Poomipat, A student in Embedded System Engineering at Burapha University.
 
 
 
@@ -13,11 +13,11 @@ Developed by 62050216 Poomipat, a student in Embedded System Engineering at Bura
 
 
 
-| Name | Age | Location |
-|------|-----|----------|
-| John | 25 | New York |
-| Mary | 30 | Los Angeles |
-| Tom | 28 | Chicago |
+| Name | Age | Location |Location |
+|------|-----|----------|----------|
+| John | 25 | New York |          |
+| Mary | 30 | Los Angeles |       |
+| Tom | 28 | Chicago |            |
 
 
 
