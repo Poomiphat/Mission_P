@@ -1,5 +1,5 @@
 # Industry 4.0@AIC: Animation Dashboard on Node-Red 
-Moritoring System Project using PLC(Mitsubishi FX5U-32MR/ES), Modbus Protocol and SVG Graphics to create a real-time animation dashboard on Node-RED for process monitoring in Industry 4.0
+Moritoring System Project using PLC(Mitsubishi FX5U-32MR/ES), Modbus Protocol and SVG (Scalable Vector Graphics) to create a real-time animation dashboard on Node-RED for process monitoring in Industry 4.0
 
 
 
