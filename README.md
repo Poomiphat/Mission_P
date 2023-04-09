@@ -70,7 +70,7 @@ by 62050216 Poomipat, A student in Embedded System Engineering at Burapha Univer
             <img width="700" height="500" src="https://user-images.githubusercontent.com/81687385/230785562-a83d2635-3abf-4474-a193-a533d0911092.jpg">
       </p>
       
-   ### Step 2) Upload the Program to PLC and Dobot m1
+   ### Step 2) Upload the Program to PLC
    * #### 2.1) Connect PLC to PC(AIC robot room PC) or Your laptop with LAN Cable;
        
        ![messageImage_1681060398518](https://user-images.githubusercontent.com/81687385/230790304-6510c2de-0872-40e8-9584-c01b76f98b4f.jpg)
@@ -100,7 +100,8 @@ Verify that the PC can communicate with the PLC, Go back the GX work3 and Go to 
 * #### 2.5) After uploading; Reset PLC
 
 ![messageImage_1681066604911](https://user-images.githubusercontent.com/81687385/230791408-5b9cf542-b60c-43fc-88ff-d4c05b24f701.jpg)
-
+   
+   ### Step 3) Upload the Program to Dobot m1
 
 
 
