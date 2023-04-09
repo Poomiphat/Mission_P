@@ -10,6 +10,7 @@ by 62050216 Poomipat, A student in Embedded System Engineering at Burapha Univer
 # Component
 ### Hardware Component:
  * PLC fx5u-32mr/es
+ * Demonstration of An Automation Sorting with PLC and Dobot Arm System. 
 
 ### Software Component:
  * Node-Red
