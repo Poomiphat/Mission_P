@@ -25,11 +25,13 @@ by 62050216 Poomipat, A student in Embedded System Engineering at Burapha Univer
  
 **** The PC in the robot room at AIC already has the necessary components for use. ****
 
-
+<p align="center">
+  <img src="![My project](https://user-images.githubusercontent.com/81687385/230772306-86fcf8d4-47f9-4f5f-8a85-d37248a3a271.jpg)" width="500" />
+</p>
 # Getting Started
 ### Demonstration Kit:
 
-![My project](https://user-images.githubusercontent.com/81687385/230772306-86fcf8d4-47f9-4f5f-8a85-d37248a3a271.jpg)![messageImage_1681042599479 (1)](https://user-images.githubusercontent.com/81687385/230772294-ab6d88d9-659f-4887-b0fe-5f68f8c81a20.jpg)
+![messageImage_1681042599479 (1)](https://user-images.githubusercontent.com/81687385/230772294-ab6d88d9-659f-4887-b0fe-5f68f8c81a20.jpg)
 
 
 
