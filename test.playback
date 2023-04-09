@@ -1,0 +1,148 @@
+{
+    "Data": [
+        {
+            "IOAD": [],
+            "IOIN": [
+                {
+                    "Condition": 0,
+                    "IOIndex": 1,
+                    "TriggerMode": 0,
+                    "Value": 0
+                }
+            ],
+            "Index": 0,
+            "Loop": 1,
+            "Name": "",
+            "Style": 6
+        },
+        {
+            "ArmOrientation": 0,
+            "Index": 1,
+            "Loop": 1,
+            "Name": "1",
+            "PTPCommon": {
+                "accelerationRatio": 30,
+                "velocityRatio": 30
+            },
+            "PTPJump": {
+                "isUseLimt": 1,
+                "jumpHeight": 20.0,
+                "zLimit": 200.0
+            },
+            "RHead": -89.138,
+            "Style": 2,
+            "X": 312.9373,
+            "Y": -87.4479,
+            "Z": 187.6337
+        },
+        {
+            "ArmOrientation": 0,
+            "Index": 2,
+            "Loop": 1,
+            "Name": "2",
+            "PTPCommon": {
+                "accelerationRatio": 30,
+                "velocityRatio": 30
+            },
+            "PTPJump": {
+                "isUseLimt": 1,
+                "jumpHeight": 20.0,
+                "zLimit": 200.0
+            },
+            "RHead": -89.138,
+            "Style": 2,
+            "X": 318.0012,
+            "Y": -90.1359,
+            "Z": 119.7135
+        },
+        {
+            "ArmOrientation": 0,
+            "Index": 3,
+            "Loop": 1,
+            "Name": "",
+            "PTPCommon": {
+                "accelerationRatio": 30,
+                "velocityRatio": 30
+            },
+            "RHead": -89.138,
+            "Style": 0,
+            "X": 318.0012,
+            "Y": -90.1359,
+            "Z": 165.7937
+        },
+        {
+            "ArmOrientation": 0,
+            "Index": 4,
+            "Loop": 1,
+            "Name": "",
+            "PTPCommon": {
+                "accelerationRatio": 30,
+                "velocityRatio": 30
+            },
+            "RHead": -136.558,
+            "Style": 0,
+            "X": 114.3223,
+            "Y": -352.2054,
+            "Z": 126.5752
+        },
+        {
+            "ArmOrientation": 0,
+            "Index": 5,
+            "Loop": 1,
+            "Name": "",
+            "PTPCommon": {
+                "accelerationRatio": 30,
+                "velocityRatio": 30
+            },
+            "PTPJump": {
+                "isUseLimt": 1,
+                "jumpHeight": 20.0,
+                "zLimit": 200.0
+            },
+            "RHead": -133.678,
+            "Style": 2,
+            "X": 126.3716,
+            "Y": -355.5515,
+            "Z": 73.7387
+        },
+        {
+            "Index": 6,
+            "Loop": 1,
+            "Name": "",
+            "PauseTime": 1.0,
+            "Style": 8
+        },
+        {
+            "ArmOrientation": 0,
+            "Index": 7,
+            "Loop": 1,
+            "Name": "",
+            "PTPCommon": {
+                "accelerationRatio": 30,
+                "velocityRatio": 30
+            },
+            "RHead": -133.678,
+            "Style": 1,
+            "X": 126.3716,
+            "Y": -354.9755,
+            "Z": 106.1146
+        },
+        {
+            "ArmOrientation": 0,
+            "Index": 8,
+            "Loop": 1,
+            "Name": "",
+            "PTPCommon": {
+                "accelerationRatio": 30,
+                "velocityRatio": 30
+            },
+            "RHead": -133.678,
+            "Style": 1,
+            "X": 126.3716,
+            "Y": -355.5515,
+            "Z": 73.7387
+        }
+    ],
+    "Loop": 10,
+    "Version": "1.1.2"
+}
