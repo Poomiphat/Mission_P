@@ -134,6 +134,11 @@ Verify that the PC can communicate with the PLC, Go back the GX work3 and Go to 
 
 ![messageImage_1681075914953](https://user-images.githubusercontent.com/81687385/230797440-2c0f4734-16ca-48fc-a7eb-667f544369e0.jpg)
 
+Testing Dobot working "Push button S1(IN01)"
+   <p align="center">
+            <img width="422" height="523" src="https://user-images.githubusercontent.com/81687385/230797573-40932d8d-615f-485a-84bf-7ce56068fc5a.jpg">
+   </p>
+
 
 
 
