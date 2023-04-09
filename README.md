@@ -91,7 +91,7 @@ by 62050216 Poomipat, A student in Embedded System Engineering at Burapha Univer
        
       ![messageImage_1681060398518](https://user-images.githubusercontent.com/81687385/230790304-6510c2de-0872-40e8-9584-c01b76f98b4f.jpg)
        
-   * #### 2.2) Open The Program Ladder code "PLC_Animation",location on  Documents--> Industry4.0_Animation --> PLC Progam --> Open "PLC_Animation.GX3"; if you try on your laptop you can down file in my repository.
+   * #### 2.2) Open The Program Ladder code "PLC_Animation",location on  Documents--> Industry4.0_Animation --> PLC Progam --> Open "PLC_Animation.GX3"; if you try on your laptop you can download file in my repository.
       <p align="center"> 
              ***** Note: The program  is already in PLC but you can try upload by your self *****
       </p>
