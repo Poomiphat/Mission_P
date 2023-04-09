@@ -36,6 +36,7 @@ by 62050216 Poomipat, A student in Embedded System Engineering at Burapha Univer
 <h3 align="center">
    I/O table
 </h3>
+
 <div align="center">
 |   Input  |  Variables            | Output |  Variables  |
 | :--------:|:-------------:        | :------:|:------------:|
