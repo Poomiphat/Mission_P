@@ -26,14 +26,15 @@ by 62050216 Poomipat, A student in Embedded System Engineering at Burapha Univer
 **** The PC in the robot room at AIC already has the necessary components for use. ****
 
 # Getting Started
-## Demonstration Kit:
-
+## Intro for Demonstration Kit:
+<p align="center">
+   Demonstration Kit 
+</p>
 <p align="center">
   <img width="654" height="400" src="https://user-images.githubusercontent.com/81687385/230772294-ab6d88d9-659f-4887-b0fe-5f68f8c81a20.jpg">
 </p>
 
 <div align="center">
-
 |   Input  |  Variables            | Output |  Variables  |
 | :--------:|:-------------:        | :------:|:------------:|
 |    X0    | S1 (Push button switch) |   Y0   | L1 (Green lamp) |
