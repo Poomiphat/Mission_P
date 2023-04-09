@@ -28,14 +28,14 @@ by 62050216 Poomipat, A student in Embedded System Engineering at Burapha Univer
 # Getting Started
 ## Intro for Demonstration Kit:
 <h3 align="center">
-   ### Demonstration Kit 
+   Components of the demonstration kit
 </h3>
 <p align="center">
   <img width="654" height="400" src="https://user-images.githubusercontent.com/81687385/230772294-ab6d88d9-659f-4887-b0fe-5f68f8c81a20.jpg">
 </p>
-<p align="center">
-   ### I/O table
-</p>
+<h3 align="center">
+   I/O table
+</h3>
 <div align="center">
 |   Input  |  Variables            | Output |  Variables  |
 | :--------:|:-------------:        | :------:|:------------:|
