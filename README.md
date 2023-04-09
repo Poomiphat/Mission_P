@@ -56,8 +56,8 @@ by 62050216 Poomipat, A student in Embedded System Engineering at Burapha Univer
 </div>
 
 # Getting Started
-   ### Step 1) System Set UP
-   * 1.1) System Power:ON
+   ## Step 1) System Set UP
+   * # 1.1) System Power:ON
       <p align="center">
             <img width="800" height="400" src="https://user-images.githubusercontent.com/81687385/230781653-1ef186c0-ecd6-4d6a-b72e-cdcbe9a867f7.jpg">
       </p>
