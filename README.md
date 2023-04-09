@@ -93,7 +93,7 @@ by 62050216 Poomipat, A student in Embedded System Engineering at Burapha Univer
 Verify that the PC can communicate with the PLC, Go back the GX work3 and Go to Manubar --> Online --> Select "Current Connection" --> And select yor Ethernet adpter --> Click "Communicatin Test"
 
 ![messageImage_1681064846307](https://user-images.githubusercontent.com/81687385/230790245-fbbeb2ad-fb87-43ab-b1d2-3d56e594b90d.jpg)
-
+    * #### 2.4) Upload ladder code to PLC, Go to menu bar --> Online --> Write to PLC --> Select Parameter + Program(F)--> Excute 
 
 
 
