@@ -67,8 +67,9 @@ by 62050216 Poomipat, A student in Embedded System Engineering at Burapha Univer
       </p>
    * #### 1.3) Dobot Power ON; Behind the Dobot Arm you will The power button.
       <p align="center">
-            <img width="700" height="500" src="https://user-images.githubusercontent.com/81687385/230785484-7d28fdc8-f163-42f7-8776-84ba57c9b267.jpg">
+            <img width="700" height="500" src="https://user-images.githubusercontent.com/81687385/230785509-749b2dc2-844f-4fa6-ba62-3a2362dbcbd6.jpg">
       </p>
+
 
 
 
