@@ -70,7 +70,7 @@ by 62050216 Poomipat, A student in Embedded System Engineering at Burapha Univer
             <img width="700" height="500" src="https://user-images.githubusercontent.com/81687385/230785562-a83d2635-3abf-4474-a193-a533d0911092.jpg">
       </p>
       
-   ### Step 2) Upload Program
+   ### Step 2) Upload the Program to PLC and Dobot m1
    * #### 2.1) Connect PLC to PC/Your laptop with LAN Cable;
        <p align="center">
             <img width="1070" height="472" src="https://user-images.githubusercontent.com/81687385/230786694-35fa983e-77a4-4ea4-811d-b01759280f8c.jpg">
