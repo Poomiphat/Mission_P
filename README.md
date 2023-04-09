@@ -55,7 +55,7 @@ by 62050216 Poomipat, A student in Embedded System Engineering at Burapha Univer
 
 </div>
 
-## Getting Started
+# Getting Started
    ### Step 1) System Set UP
    * 1.1) System Power:ON
       <p align="center">
