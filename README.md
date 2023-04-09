@@ -142,7 +142,15 @@ After Testing Dobot Click "Stop"
 
 ![image](https://user-images.githubusercontent.com/81687385/230797985-4f410ddb-74cc-469f-9520-572db0e34fb3.png)
 
-   * #### 3.2) Upload Program main to Dobot m1
+   * #### 3.3) Upload Program main to Dobot m1, Go to Tool menu --> Select Blocky
+
+
+   * #### 3.4) Click Open  and Select "Main_m1_Animated.blocky"
+
+
+   * #### 3.5) Start
+
+   *************Waring*******************
 
 
 
