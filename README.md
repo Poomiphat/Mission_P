@@ -71,7 +71,7 @@ by 62050216 Poomipat, A student in Embedded System Engineering at Burapha Univer
       </p>
       
    ### Step 2) Upload the Program to PLC and Dobot m1
-   * #### 2.1) Connect PLC to PC/Your laptop with LAN Cable;
+   * #### 2.1) Connect PLC to PC(AIC robot room PC) or Your laptop with LAN Cable;
        <p align="center">
             <img width="1070" height="472" src="https://user-images.githubusercontent.com/81687385/230786694-35fa983e-77a4-4ea4-811d-b01759280f8c.jpg">
        </p>
@@ -82,7 +82,7 @@ by 62050216 Poomipat, A student in Embedded System Engineering at Burapha Univer
       <p align="center">
             <img width="960" height="396" src="https://user-images.githubusercontent.com/81687385/230787847-3328a072-a51c-4521-8ff9-ca363deb547c.jpg">
       </p>
-   * #### 2.3) Check the PLC/your Laptop
+   * #### 2.3) Configure the Ethernet IPV4 settings of the PC to connect to the same network as the PLC, and ensure that the connection is established. Verify that the PC can communicate with the PLC.
 
 
 
