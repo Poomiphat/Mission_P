@@ -35,7 +35,7 @@ by 62050216 Poomipat, A student in Embedded System Engineering at Burapha Univer
 </p>
 
 <h3 align="center">
-   Components of the demonstration kit
+   I/O table
 </h3>
 
 
