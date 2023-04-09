@@ -29,7 +29,8 @@ by 62050216 Poomipat, A student in Embedded System Engineering at Burapha Univer
 # Getting Started
 ### Demonstration Kit
 
-<img src="![S__1](https://user-images.githubusercontent.com/81687385/230771660-b92faaa9-074a-44f1-944e-d8adedd7fdb1.jpg)" width="500">
+![My project](https://user-images.githubusercontent.com/81687385/230771930-15fd936f-0e01-47a3-964a-e6a07a34909c.jpg)
+
 
 
 | Name | Age | Location |Location |
