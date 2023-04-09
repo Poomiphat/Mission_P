@@ -35,7 +35,7 @@ by 62050216 Poomipat, A student in Embedded System Engineering at Burapha Univer
 <div align="center">
 
 |   Input  |  Variables            | Output |  Variables  |
-| :--------|:-------------:        | ------:|:------------|
+| :--------:|:-------------:        | :------:|:------------:|
 |    X0    | S1 (Push button switch) |   Y0   | L1 (Green lamp) |
 |    X1    | S2 (Push button switch) |   Y1   | L2 (Red lamp    |
 |    X2    | Reed1 (Reed switch)     |   Y2   | Sol (solenoid value)|
