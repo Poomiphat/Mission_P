@@ -82,11 +82,11 @@ by 62050216 Poomipat, A student in Embedded System Engineering at Burapha Univer
       <p align="center">
             <img width="960" height="396" src="https://user-images.githubusercontent.com/81687385/230787847-3328a072-a51c-4521-8ff9-ca363deb547c.jpg">
       </p>
-   * #### 2.3) Configure the Ethernet IPV4 settings of the PC to connect to the same network as the PLC(192.168.137.250); Go to Control Panel --> Network and Sharing Center --> Slect "Change adpter Setting"
+   * #### 2.3) Configure the Ethernet IPV4 settings of the PC to connect to the same network as the PLC(192.168.137.250); Go to Control Panel --> Network and Sharing Center --> Select "Change adpter Setting"
       <p align="center">
             <img width="736" height="266" src="https://user-images.githubusercontent.com/81687385/230788826-ca28d829-0e1a-4568-b51a-929cda49ab2a.jpg">
       </p>
-   Right Cilck on Ethernet --> Slect"(TCP/IPV4)" --> And set yor IPV4 in "192.168.137.xx" 
+   Right Cilck on Ethernet --> Select"(TCP/IPV4)" --> And set yor IPV4 in "192.168.137.xx" 
    <p align="center">
             <img width="774" height="437" src="https://user-images.githubusercontent.com/81687385/230789299-783acee9-fa7d-4633-af89-2e98ff000ec9.jpg">
       </p>  
