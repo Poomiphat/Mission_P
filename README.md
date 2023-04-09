@@ -8,7 +8,9 @@ by 62050216 Poomipat, A student in Embedded System Engineering at Burapha Univer
 *****This repository is intended for individuals who are interested in studying and further development projects related the Industry 4.0@AIC Center*****
 
 # Environment
-
+  * Node-Red
+    * SVG
+    * Modbus
 
 
 
