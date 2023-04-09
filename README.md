@@ -61,6 +61,10 @@ by 62050216 Poomipat, A student in Embedded System Engineering at Burapha Univer
       <p align="center">
             <img width="700" height="400" src="https://user-images.githubusercontent.com/81687385/230781653-1ef186c0-ecd6-4d6a-b72e-cdcbe9a867f7.jpg">
       </p>
+   * 1.2) pneumatic system ON
+      <p align="center">
+            <img width="700" height="400" src="">
+      </p>
 
 
 
