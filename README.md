@@ -77,7 +77,7 @@ by 62050216 Poomipat, A student in Embedded System Engineering at Burapha Univer
        </p>
    * #### 2.2) Upload The Program Ladder code "PLC_Animation",location on Documents--> Industry4.0_Animation --> PLC Progam --> "PLC_Animation.GX3"
       <p align="center"> 
-             *****Note: The program  is already in PLC but you can try upload by your self*****
+             ***** Note: The program  is already in PLC but you can try upload by your self *****
       </p>
       <p align="center">
             <img width="960" height="396" src="https://user-images.githubusercontent.com/81687385/230787847-3328a072-a51c-4521-8ff9-ca363deb547c.jpg">
