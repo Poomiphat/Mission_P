@@ -25,8 +25,8 @@ by 62050216 Poomipat, A student in Embedded System Engineering at Burapha Univer
  
 **** The PC in the robot room at AIC already has the necessary components for use. ****
 
-# Getting Started
-## Intro for Demonstration Kit:
+
+# Intro for Demonstration Kit:
 <h3 align="center">
    Components of the demonstration kit
 </h3>
@@ -54,8 +54,7 @@ by 62050216 Poomipat, A student in Embedded System Engineering at Burapha Univer
    |    X10   | Fiber (sensor)          |        |             |
 
 </div>
-
-### Set UP
+# Getting Started
    #### Step 1) System Power ON
 
 
