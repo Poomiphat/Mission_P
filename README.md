@@ -138,7 +138,10 @@ Testing Dobot working "Push button S1(IN01)"
    <p align="center">
            <img width="422" height="523" src="https://user-images.githubusercontent.com/81687385/230797815-2612a432-6220-4884-a239-a6c8990adfa1.jpg">
    </p>
-    
+After Testing Dobot Click "Stop"
+
+![image](https://user-images.githubusercontent.com/81687385/230797985-4f410ddb-74cc-469f-9520-572db0e34fb3.png)
+
    * #### 3.2) Upload Program main to Dobot m1
 
 
