@@ -58,6 +58,8 @@ by 62050216 Poomipat, A student in Embedded System Engineering at Burapha Univer
    Dobot m1 I/O table
 </h3>
 
+<div align="center">
+   
   |   Input  |  Variables            | Output |  Variables  |
    | :--------:|:-------------:        | :------:|:------------:|
    |    X0    | S1 (Push button switch) |   Y0   | L1 (Green lamp) |
