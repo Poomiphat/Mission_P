@@ -29,7 +29,7 @@ by 62050216 Poomipat, A student in Embedded System Engineering at Burapha Univer
 ### Demonstration Kit:
 
 <p align="center">
-  <img width="483" height="500" src="[http://www.fillmurray.com/460/300](https://user-images.githubusercontent.com/81687385/230772475-9f1257a8-3b5e-4758-b0a6-1a1e59db891d.jpg)">
+  <img width="483" height="500" src="https://user-images.githubusercontent.com/81687385/230772475-9f1257a8-3b5e-4758-b0a6-1a1e59db891d.jpg">
 </p>
 
 
