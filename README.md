@@ -72,7 +72,7 @@ by 62050216 Poomipat, A student in Embedded System Engineering at Burapha Univer
 
 
 
-![messageImage_1681058103201](https://user-images.githubusercontent.com/81687385/230785002-4991d1db-44b5-4754-855e-4479603b2df6.jpg)
+
 
 
 
