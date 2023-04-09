@@ -99,8 +99,7 @@ Verify that the PC can communicate with the PLC, Go back the GX work3 and Go to 
 ![messageImage_1681065543636](https://user-images.githubusercontent.com/81687385/230790693-b108e00a-08ae-4d09-a644-688debbd5836.jpg)
 * #### 2.5) After uploading; Reset PLC
 
-
-![messageImage_1681066510052](https://user-images.githubusercontent.com/81687385/230791370-c1176a62-c2a4-453f-a20d-52b728575e07.jpg)
+![messageImage_1681066604911](https://user-images.githubusercontent.com/81687385/230791408-5b9cf542-b60c-43fc-88ff-d4c05b24f701.jpg)
 
 
 
