@@ -96,8 +96,7 @@ Verify that the PC can communicate with the PLC, Go back the GX work3 and Go to 
 
    * #### 2.4) Upload ladder code to PLC, Go to menu bar --> Online --> Write to PLC --> Select Parameter + Program(F)--> Excute 
 
-
-
+![messageImage_1681065543636](https://user-images.githubusercontent.com/81687385/230790693-b108e00a-08ae-4d09-a644-688debbd5836.jpg)
 
 
 
