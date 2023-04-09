@@ -92,13 +92,11 @@ by 62050216 Poomipat, A student in Embedded System Engineering at Burapha Univer
    </p>  
 Verify that the PC can communicate with the PLC, Go back the GX work3 and Go to Manubar --> Online --> Select "Current Connection" --> And select yor Ethernet adpter --> Click "Communicatin Test"
  <p align="center">
-            <img width="1300" height="531" src="https://user-images.githubusercontent.com/81687385/230790133-7b4c3555-bf55-4fee-a371-568cdca6ee50.jpg ">
+            <img width="1316" height="531" src="https://user-images.githubusercontent.com/81687385/230790133-7b4c3555-bf55-4fee-a371-568cdca6ee50.jpg">
    </p> 
 
 
 
-
-![messageImage_1681064846307](https://user-images.githubusercontent.com/81687385/230790133-7b4c3555-bf55-4fee-a371-568cdca6ee50.jpg)
 
 
 
