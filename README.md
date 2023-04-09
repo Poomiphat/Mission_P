@@ -74,9 +74,14 @@ by 62050216 Poomipat, A student in Embedded System Engineering at Burapha Univer
    * #### 2.1) Connect PLC to PC/Your laptop with LAN Cable;
        <p align="center">
             <img width="1070" height="472" src="https://user-images.githubusercontent.com/81687385/230786694-35fa983e-77a4-4ea4-811d-b01759280f8c.jpg">
+       </p>
+    * #### 2.2) Upload The program Ladder code "PLC_Animation" location on Documents--> Industry4.0_Animation --> PLC Progam --> "PLC_Animation.GX3"
+      <p align="center">
+            <img width="1100" height="631" src="https://user-images.githubusercontent.com/81687385/230787764-62eca6a4-979a-481f-a6f3-9f9c9fa92d96.jpg">
       </p>
-
 *****This repository is intended for individuals who are interested in studying and further development projects related the Industry 4.0@AIC Center*****
+
+
 
 
 
