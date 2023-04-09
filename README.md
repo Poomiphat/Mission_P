@@ -31,7 +31,7 @@ by 62050216 Poomipat, A student in Embedded System Engineering at Burapha Univer
    Components of the demonstration kit
 </h3>
 <p align="center">
-  <img width="654" height="400" src="https://user-images.githubusercontent.com/81687385/230772294-ab6d88d9-659f-4887-b0fe-5f68f8c81a20.jpg">
+  <img width="800" height="362" src="https://user-images.githubusercontent.com/81687385/230772294-ab6d88d9-659f-4887-b0fe-5f68f8c81a20.jpg">
 </p>
 
 <h3 align="center">
