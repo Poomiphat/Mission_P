@@ -8,10 +8,10 @@ by 62050216 Poomipat, A student in Embedded System Engineering at Burapha Univer
 *****This repository is intended for individuals who are interested in studying and further development projects related the Industry 4.0@AIC Center*****
 
 # Component
-## Hardware Component:
+### Hardware Component:
  * PLC fx5u-32mr/es
 
-## Software Component:
+### Software Component:
  * Node-Red
    Request Plugin
      * node-red-dashboard (ver 3.2.0 or latest version)
