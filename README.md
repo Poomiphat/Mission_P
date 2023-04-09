@@ -18,10 +18,9 @@ by 62050216 Poomipat, A student in Embedded System Engineering at Burapha Univer
      * node-red-contrib-modbus(v5.23.1 or latest version)
      * node-red-contrib-ui-svg (v2.3.1 or latest version)
      * node-red-contrib-drawsvg (v1.3.0 or latest version)
-     
  * GX Work3 (v1.076E or lastest version)
- 
- * M1 Studio (V1.5.3)  
+ * M1 Studio
+ * inkscape
  
 
 
