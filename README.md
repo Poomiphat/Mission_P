@@ -25,9 +25,6 @@ by 62050216 Poomipat, A student in Embedded System Engineering at Burapha Univer
  
 **** The PC in the robot room at AIC already has the necessary components for use. ****
 
-<p align="center">
-  <img src="![My project](https://user-images.githubusercontent.com/81687385/230772306-86fcf8d4-47f9-4f5f-8a85-d37248a3a271.jpg)" width="500" />
-</p>
 # Getting Started
 ### Demonstration Kit:
 
