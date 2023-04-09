@@ -33,19 +33,19 @@ by 62050216 Poomipat, A student in Embedded System Engineering at Burapha Univer
 <p align="center">
   <img width="654" height="400" src="https://user-images.githubusercontent.com/81687385/230772294-ab6d88d9-659f-4887-b0fe-5f68f8c81a20.jpg">
 </p>
-
-|   Input  |  Variables            | Output |  Variables  |
-| :--------:|:-------------:        | :------:|:------------:|
-|    X0    | S1 (Push button switch) |   Y0   | L1 (Green lamp) |
-|    X1    | S2 (Push button switch) |   Y1   | L2 (Red lamp)   |
-|    X2    | Reed1 (Reed switch)     |   Y2   | Sol (solenoid value)|
-|    X3    | Reed2 (Reed switch)     |   Y4   |STR (Conveyor)|
-|    X4    | Ind (sensor)            |   Y5   | M1-Input1 (IN05 M1)|
-|    X5    | Cap (sensor)            |   Y6   | M1-Input2 (IN06 M1)|
-|    X6    | Opt (sensor)            |   Y7   | M1-Input3 (IN07 M1)|
-|    X7    | M1-Output (dobot)       |        |             |
-|    X10   | Fiber (sensor)          |        |             |
-
+<div align="center">
+   |   Input  |  Variables            | Output |  Variables  |
+   | :--------:|:-------------:        | :------:|:------------:|
+   |    X0    | S1 (Push button switch) |   Y0   | L1 (Green lamp) |
+   |    X1    | S2 (Push button switch) |   Y1   | L2 (Red lamp)   |
+   |    X2    | Reed1 (Reed switch)     |   Y2   | Sol (solenoid value)|
+   |    X3    | Reed2 (Reed switch)     |   Y4   |STR (Conveyor)|
+   |    X4    | Ind (sensor)            |   Y5   | M1-Input1 (IN05 M1)|
+   |    X5    | Cap (sensor)            |   Y6   | M1-Input2 (IN06 M1)|
+   |    X6    | Opt (sensor)            |   Y7   | M1-Input3 (IN07 M1)|
+   |    X7    | M1-Output (dobot)       |        |             |
+   |    X10   | Fiber (sensor)          |        |             |
+</div>
 
 
 
