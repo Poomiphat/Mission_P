@@ -95,9 +95,8 @@ by 62050216 Poomipat, A student in Embedded System Engineering at Burapha Univer
       <p align="center"> 
              ***** Note: The program  is already in PLC but you can try upload by your self *****
       </p>
-      <p align="center">
-            <img width="960" height="396" src="https://user-images.githubusercontent.com/81687385/230787847-3328a072-a51c-4521-8ff9-ca363deb547c.jpg">
-      </p>
+     ![wwww](https://user-images.githubusercontent.com/81687385/230794784-43e87f07-5d62-490a-9349-788f4701162c.jpg)
+
    * #### 2.3) Configure the Ethernet IPV4 settings of the PC to connect to the same network as the PLC(192.168.137.250); Go to Control Panel --> Network and Sharing Center --> Select "Change adpter Setting"
       <p align="center">
             <img width="736" height="266" src="https://user-images.githubusercontent.com/81687385/230788826-ca28d829-0e1a-4568-b51a-929cda49ab2a.jpg">
