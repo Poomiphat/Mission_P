@@ -72,9 +72,9 @@ by 62050216 Poomipat, A student in Embedded System Engineering at Burapha Univer
       
    ### Step 2) Upload the Program to PLC and Dobot m1
    * #### 2.1) Connect PLC to PC(AIC robot room PC) or Your laptop with LAN Cable;
-       <p align="center">
-            <img width="1070" height="472" src="https://user-images.githubusercontent.com/81687385/230786694-35fa983e-77a4-4ea4-811d-b01759280f8c.jpg">
-       </p>
+       
+       ![messageImage_1681060398518](https://user-images.githubusercontent.com/81687385/230790304-6510c2de-0872-40e8-9584-c01b76f98b4f.jpg)
+       
    * #### 2.2) Open The Program Ladder code "PLC_Animation",location on  Documents--> Industry4.0_Animation --> PLC Progam --> Open "PLC_Animation.GX3"; if you try on your laptop you can down file in my repository.
       <p align="center"> 
              ***** Note: The program  is already in PLC but you can try upload by your self *****
