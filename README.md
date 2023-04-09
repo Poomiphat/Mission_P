@@ -136,11 +136,9 @@ Verify that the PC can communicate with the PLC, Go back the GX work3 and Go to 
 
 Testing Dobot working "Push button S1(IN01)"
    <p align="center">
-           <img width="422" height="523" src="https://user-images.githubusercontent.com/81687385/230797573-40932d8d-615f-485a-84bf-7ce56068fc5a.jpg">
+           <img width="422" height="523" src="https://user-images.githubusercontent.com/81687385/230797815-2612a432-6220-4884-a239-a6c8990adfa1.jpg">
    </p>
-   ![messageImage_1681076395543](https://user-images.githubusercontent.com/81687385/230797725-52ef9361-4d20-4ab2-923c-c9b6539ab089.jpg)
-
-  
+    
    * #### 3.2) Upload Program main to Dobot m1
 
 
