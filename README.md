@@ -120,8 +120,8 @@ Verify that the PC can communicate with the PLC, Go back the GX work3 and Go to 
 ### Step 3) Upload the Dobot Program to Dobot m1
   
   * #### 3.1) Open M1 Studio and Connect Dobot Arm to PC with USB form Dobot
-
-
+  
+![messageImage_1681070387325](https://user-images.githubusercontent.com/81687385/230793978-5c1ead64-0b13-4db8-b71b-f8e08231d5fb.jpg)
 
 
 
