@@ -7,10 +7,20 @@ by 62050216 Poomipat, A student in Embedded System Engineering at Burapha Univer
 
 *****This repository is intended for individuals who are interested in studying and further development projects related the Industry 4.0@AIC Center*****
 
-# Environment
-  * Node-Red
-    * SVG
-    * Modbus
+# Component
+Hardware Component:
+ * PLC fx5u-32mr/es
+
+Software Component:
+ * Node-Red
+   Request Plugin
+     * node-red-dashboard (ver 3.2.0 or latest version)
+     * node-red-contrib-modbus(v5.23.1 or latest version)
+     * node-red-contrib-ui-svg (v2.3.1 or latest version)
+     * node-red-contrib-drawsvg (v1.3.0 or latest version)
+ * GX Work3 (v1.076E or lastest vertion)
+ * M1 Studio (V1.5.3)  
+ 
 
 
 
