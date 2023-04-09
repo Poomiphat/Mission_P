@@ -30,6 +30,7 @@ by 62050216 Poomipat, A student in Embedded System Engineering at Burapha Univer
 
 <p align="center">
   <img width="483" height="500" src="https://user-images.githubusercontent.com/81687385/230772475-9f1257a8-3b5e-4758-b0a6-1a1e59db891d.jpg">
+  <img width="654" height="400" src="https://user-images.githubusercontent.com/81687385/230772294-ab6d88d9-659f-4887-b0fe-5f68f8c81a20.jpg">
 </p>
 
 <div align="center">
