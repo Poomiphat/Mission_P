@@ -34,12 +34,13 @@ by 62050216 Poomipat, A student in Embedded System Engineering at Burapha Univer
 
 <div align="center">
 
-| Input         |                |       |   Output    |
-| :------------ |:-------------:| -----:|:------------|
-| col 3 is      | right-aligned | $1600 |             |
-| col 2 is      | centered      |   $12 |             |
-| zebra stripes | are neat      |    $1 |             |
-
+| Input         |  Variables    |   Output |  Variables  |
+| :------------ |:-------------:| --------:|:------------|
+|       X0      |  S1 (Push button switch)        |          |             |
+|               |               |          |             |
+|               |               |          |             |
+|               |               |          |             |
+|               |               |          |             |
 </div>
 
 
