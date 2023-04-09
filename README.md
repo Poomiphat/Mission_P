@@ -73,7 +73,7 @@ by 62050216 Poomipat, A student in Embedded System Engineering at Burapha Univer
    ### Step 2) Upload Program
    * #### 2.1) Connect PLC to PC/Your laptop;
        <p align="center">
-            <img width="1300" height="570" src="https://user-images.githubusercontent.com/81687385/230786577-22b34d06-5c33-44c2-b88a-8b1994c96557.jpg ">
+            <img width="1200" height="572" src="https://user-images.githubusercontent.com/81687385/230786577-22b34d06-5c33-44c2-b88a-8b1994c96557.jpg ">
       </p>
 
 *****This repository is intended for individuals who are interested in studying and further development projects related the Industry 4.0@AIC Center*****
