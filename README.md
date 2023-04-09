@@ -23,6 +23,7 @@ by 62050216 Poomipat, A student in Embedded System Engineering at Burapha Univer
  * M1 Studio
  * inkscape
  
+***** The PC in the robot room at AIC already has the necessary components for use. *****
 
 
 
