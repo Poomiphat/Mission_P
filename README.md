@@ -87,7 +87,7 @@ by 62050216 Poomipat, A student in Embedded System Engineering at Burapha Univer
       </p>
       
    ### Step 2) Upload the Program Ladder code to PLC
-   * #### 2.1) Connect PLC to PC(AIC robot room PC) or Your laptop with LAN Cable;
+   * #### 2.1) Connect PLC to PC(In robot room) or Your laptop with LAN Cable;
        
        ![messageImage_1681060398518](https://user-images.githubusercontent.com/81687385/230790304-6510c2de-0872-40e8-9584-c01b76f98b4f.jpg)
        
