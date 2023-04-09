@@ -56,7 +56,7 @@ by 62050216 Poomipat, A student in Embedded System Engineering at Burapha Univer
 </div>
 
 # Getting Started
-   ### Step 1) System Set UP
+   ### Step 1) System Environment Set-UP
    * #### 1.1) System Power:ON
       <p align="center">
             <img width="800" height="400" src="https://user-images.githubusercontent.com/81687385/230781653-1ef186c0-ecd6-4d6a-b72e-cdcbe9a867f7.jpg">
@@ -69,7 +69,7 @@ by 62050216 Poomipat, A student in Embedded System Engineering at Burapha Univer
       <p align="center">
             <img width="700" height="500" src="https://user-images.githubusercontent.com/81687385/230785562-a83d2635-3abf-4474-a193-a533d0911092.jpg">
       </p>
-
+    ### Step 2) Upload Program
 
 
 
