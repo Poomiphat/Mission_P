@@ -77,9 +77,10 @@ by 62050216 Poomipat, A student in Embedded System Engineering at Burapha Univer
        </p>
    * #### 2.2) Upload The program Ladder code "PLC_Animation" location on Documents--> Industry4.0_Animation --> PLC Progam --> "PLC_Animation.GX3"
       <p align="center">
-            <img width="1100" height="631" src="https://user-images.githubusercontent.com/81687385/230787764-62eca6a4-979a-481f-a6f3-9f9c9fa92d96.jpg">
+            <img width="960" height="396" src="https://user-images.githubusercontent.com/81687385/230787847-3328a072-a51c-4521-8ff9-ca363deb547c.jpg">
       </p>
 *****This repository is intended for individuals who are interested in studying and further development projects related the Industry 4.0@AIC Center*****
+
 
 
 
