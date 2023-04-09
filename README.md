@@ -57,14 +57,15 @@ by 62050216 Poomipat, A student in Embedded System Engineering at Burapha Univer
 
 ## Getting Started
    ### Step 1) System Set UP
-   * 1.1) System Power ON
+   * 1.1) System Power:ON
       <p align="center">
             <img width="700" height="400" src="https://user-images.githubusercontent.com/81687385/230781653-1ef186c0-ecd6-4d6a-b72e-cdcbe9a867f7.jpg">
       </p>
-   * 1.2) pneumatic system ON
+   * 1.2) pneumatic system:ON
       <p align="center">
-            <img width="700" height="400" src="">
+            <img width="690" height="450" src="https://user-images.githubusercontent.com/81687385/230782792-73ccdc57-29cd-402a-9d10-be0086ff4f42.jpg">
       </p>
+
 
 
 
