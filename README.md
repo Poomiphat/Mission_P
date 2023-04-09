@@ -88,7 +88,7 @@ by 62050216 Poomipat, A student in Embedded System Engineering at Burapha Univer
       </p>
     Right Cilck on Ethernet --> Slect"(TCP/IPV4)" --> And set yor IPV4 in "192.168.137.xx" 
    <p align="center">
-            <img width="736" height="266" src="https://user-images.githubusercontent.com/81687385/230789299-783acee9-fa7d-4633-af89-2e98ff000ec9.jpg">
+            <img width="774" height="437" src="https://user-images.githubusercontent.com/81687385/230789299-783acee9-fa7d-4633-af89-2e98ff000ec9.jpg">
       </p>  
    , and ensure that the connection is established. Verify that the PC can communicate with the PLC.
 
