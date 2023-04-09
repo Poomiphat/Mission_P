@@ -29,9 +29,8 @@ by 62050216 Poomipat, A student in Embedded System Engineering at Burapha Univer
 # Getting Started
 ### Demonstration Kit:
 
-![My project](https://user-images.githubusercontent.com/81687385/230771930-15fd936f-0e01-47a3-964a-e6a07a34909c.jpg) 
-![messageImage_1681042599479](https://user-images.githubusercontent.com/81687385/230772042-466293cb-ab3f-4abc-a447-70dece5cdb55.jpg)
-<img src="image.png" alt="image" width="500" height="300">
+![My project](htt![messageImage_1681042599479 (1)](https://user-images.githubusercontent.com/81687385/230772282-a9f56c73-35b2-415e-9e1f-646e1391703b.jpg)
+![messageImage_1681042599479 (1)](https://user-images.githubusercontent.com/81687385/230772294-ab6d88d9-659f-4887-b0fe-5f68f8c81a20.jpg)
 
 
 
