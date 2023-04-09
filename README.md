@@ -82,7 +82,15 @@ by 62050216 Poomipat, A student in Embedded System Engineering at Burapha Univer
       <p align="center">
             <img width="960" height="396" src="https://user-images.githubusercontent.com/81687385/230787847-3328a072-a51c-4521-8ff9-ca363deb547c.jpg">
       </p>
-   * #### 2.3) Configure the Ethernet IPV4 settings of the PC to connect to the same network as the PLC, and ensure that the connection is established. Verify that the PC can communicate with the PLC.
+   * #### 2.3) Configure the Ethernet IPV4 settings of the PC to connect to the same network as the PLC; Go to Control Panel --> Network and Sharing Center --> Slect "Change adpter Setting"
+      <p align="center">
+            <img width="736" height="266" src="https://user-images.githubusercontent.com/81687385/230788826-ca28d829-0e1a-4568-b51a-929cda49ab2a.jpg">
+      </p>
+   
+   
+   
+   
+   , and ensure that the connection is established. Verify that the PC can communicate with the PLC.
 
 
 
@@ -90,6 +98,7 @@ by 62050216 Poomipat, A student in Embedded System Engineering at Burapha Univer
 
 
 
+![messageImage_1681063133550](https://user-images.githubusercontent.com/81687385/230788826-ca28d829-0e1a-4568-b51a-929cda49ab2a.jpg)
 
 
 
