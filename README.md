@@ -60,14 +60,14 @@ by 62050216 Poomipat, A student in Embedded System Engineering at Burapha Univer
 
 <div align="center">
    
-   |   Input  |  Variables            | Output |  Variables  |
-   | :--------:|:-------------:        | :------:|:------------:|
+   |   Input  |  Variables      | Output |  Variables  |
+   | :--------:|:-------------: | :------:|:------------:|
    |    IN01    | S1 (Push button switch) |  out01  | Dobot End Status(X7) |
    |    IN02    | S2 (Push button switch) |  out17  |  Gripper   |
    |    IN03    | S2 (Push button switch) |  out18  | Air Pump |
-   |    IN05    | M1-Input1 (Y5)     |         |       |
-   |    IN06    | M1-Input2 (Y6)     |         |       |
-   |    IN07    | M1-Input3 (Y7)     |         |       |
+   |    IN05    | M1-Input1 (Y5)          |         |       |
+   |    IN06    | M1-Input2 (Y6)          |         |       |
+   |    IN07    | M1-Input3 (Y7)          |         |       |
 
 </div>
 
