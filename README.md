@@ -54,8 +54,9 @@ by 62050216 Poomipat, A student in Embedded System Engineering at Burapha Univer
    |    X10   | Fiber (sensor)          |        |             |
 
 </div>
-# Getting Started
-   #### Step 1) System Power ON
+
+## Getting Started
+   ### Step 1) System Power ON
 
 
 
