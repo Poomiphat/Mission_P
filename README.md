@@ -89,12 +89,13 @@ by 62050216 Poomipat, A student in Embedded System Engineering at Burapha Univer
    ### Step 2) Upload the Program Ladder code to PLC
    * #### 2.1) Connect PLC to PC(In robot room) or Your laptop with LAN Cable;
        
-       ![messageImage_1681060398518](https://user-images.githubusercontent.com/81687385/230790304-6510c2de-0872-40e8-9584-c01b76f98b4f.jpg)
+      ![messageImage_1681060398518](https://user-images.githubusercontent.com/81687385/230790304-6510c2de-0872-40e8-9584-c01b76f98b4f.jpg)
        
    * #### 2.2) Open The Program Ladder code "PLC_Animation",location on  Documents--> Industry4.0_Animation --> PLC Progam --> Open "PLC_Animation.GX3"; if you try on your laptop you can down file in my repository.
       <p align="center"> 
              ***** Note: The program  is already in PLC but you can try upload by your self *****
       </p>
+      
      ![wwww](https://user-images.githubusercontent.com/81687385/230794784-43e87f07-5d62-490a-9349-788f4701162c.jpg)
 
    * #### 2.3) Configure the Ethernet IPV4 settings of the PC to connect to the same network as the PLC(192.168.137.250); Go to Control Panel --> Network and Sharing Center --> Select "Change adpter Setting"
