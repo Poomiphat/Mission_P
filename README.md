@@ -131,7 +131,8 @@ Verify that the PC can communicate with the PLC, Go back the GX work3 and Go to 
             <img width="678" height="400" src="https://user-images.githubusercontent.com/81687385/230797257-0a2fbb48-9c07-4119-b185-d4f695307648.jpg">
    </p>  
    
-![messageImage_1681075847513](https://user-images.githubusercontent.com/81687385/230797403-c4f5bae2-7030-4b53-b91b-da904ffa22aa.jpg)
+
+![messageImage_1681075914953](https://user-images.githubusercontent.com/81687385/230797440-2c0f4734-16ca-48fc-a7eb-667f544369e0.jpg)
 
 
 
