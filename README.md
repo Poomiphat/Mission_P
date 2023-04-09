@@ -71,7 +71,7 @@ by 62050216 Poomipat, A student in Embedded System Engineering at Burapha Univer
       </p>
       
    ### Step 2) Upload Program
-   * #### 2.1) Connect PLC to PC/Your laptop;
+   * #### 2.1) Connect PLC to PC/Your laptop with lancable;
        <p align="center">
             <img width="1070" height="472" src="https://user-images.githubusercontent.com/81687385/230786694-35fa983e-77a4-4ea4-811d-b01759280f8c.jpg">
       </p>
