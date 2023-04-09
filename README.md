@@ -123,7 +123,7 @@ Verify that the PC can communicate with the PLC, Go back the GX work3 and Go to 
   
 ![messageImage_1681070387325](https://user-images.githubusercontent.com/81687385/230793978-5c1ead64-0b13-4db8-b71b-f8e08231d5fb.jpg)
 
-  * #### 3.1) Testing Dobot m1 program go to Documents--> Industry4.0_Animation --> Dobot m1
+  * #### 3.2) Testing Dobot m1 program go to Documents--> Industry4.0_Animation --> Dobot m1
 
 ![messageImage_1681075219348](https://user-images.githubusercontent.com/81687385/230797062-1e45a8bf-8d82-42ac-a2ac-9c9ac4fd786c.jpg)
 
@@ -136,8 +136,12 @@ Verify that the PC can communicate with the PLC, Go back the GX work3 and Go to 
 
 Testing Dobot working "Push button S1(IN01)"
    <p align="center">
-            <img width="422" height="523" src="https://user-images.githubusercontent.com/81687385/230797573-40932d8d-615f-485a-84bf-7ce56068fc5a.jpg">
+           <img width="422" height="523" src="https://user-images.githubusercontent.com/81687385/230797573-40932d8d-615f-485a-84bf-7ce56068fc5a.jpg">
    </p>
+   ![messageImage_1681076395543](https://user-images.githubusercontent.com/81687385/230797725-52ef9361-4d20-4ab2-923c-c9b6539ab089.jpg)
+
+  
+   * #### 3.2) Upload Program main to Dobot m1
 
 
 
