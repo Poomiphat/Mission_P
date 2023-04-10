@@ -258,7 +258,7 @@ After you enjoy my project, You should to Close the system every time
   * #### 6.1) befor Shut down a Dobot m1,make sure the Program in M1studio window is Stop mode
   ![messageImage_1681111428151](https://user-images.githubusercontent.com/81687385/230850685-79fd2ead-d6ce-4549-ad1d-b0660bd678e3.jpg)
 
-  * #### 6.2) Close the air tank and After Close the pneumatic valve
+  * #### 6.2) Close the air tank and After that Close the pneumatic valve
   ![messageImage_1681111961665](https://user-images.githubusercontent.com/81687385/230853654-245f6303-1012-4788-9a5b-669eb4df2f89.jpg)
 
   * #### 6.3) Slide PLC to Stop mode
