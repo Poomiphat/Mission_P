@@ -162,9 +162,9 @@ After Testing Click "Stop"
    **** You must use the USB from the robot to connect Dobot M1 and PC because the program cannot be loaded directly into Dobot M1. ****
 </h4>
 
-<h4 align="center">
+<h5 align="center">
    **** เนื่องจากว่าตัวโปรแกรมที่ทำการรันนั้นไม่สามารถที่จะอับโหลดลงไปที่ตัวแขนกลได้ตรงๆ จำเป็นต้องเชื่อมต่อสาย USB Dobot กับ PC เอาไว้ตลอดในระหว่างการทำงาน ****
-</h4>
+</h5>
  
 
 
