@@ -195,5 +195,5 @@ Error message Just like it
 
 ### Step 4) Running the node-red flow
 
-if you use the PC in robot room@AIC you can Follow the steps below, If not you should to install node-red on your laptop and Download "Proect-Demo.json"
+if you use the PC in robot room@AIC you can Follow the steps below, If not you should to install node-red and important palette on your laptop and After intall import "Proect-Demo.json" in your node-red
 
