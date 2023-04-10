@@ -158,10 +158,6 @@ After Testing Click "Stop"
 ********* warning *********
 </h4>
 
-<h5 align="center">
-   **** In the Dobot program(input/output) 0= Woking, 1= Stop ****
-</h5>
-
 <h4 align="center">
    **** You must use the USB from the robot to connect Dobot M1 and PC because the program cannot be loaded directly into Dobot M1. ****
 </h4>
@@ -170,6 +166,14 @@ After Testing Click "Stop"
    **** เนื่องจากว่าตัวโปรแกรมที่ทำการรันนั้นไม่สามารถที่จะอับโหลดลงไปที่ตัวแขนกลได้ตรงๆ จำเป็นต้องเชื่อมต่อสาย USB Dobot กับ PC เอาไว้ตลอดในระหว่างการทำงาน ****
 </h5>
  
+ 
+ <h4 align="center">
+********* warning2 *********
+</h4>
+
+<h5 align="center">
+   **** In the Dobot program(input/output) 0= Woking, 1= Stop ****
+</h5>
 
 Warning: If you have  error message from Dobot after starting the Blockly code, you should clear the error first. However if there are no errors, you can proceed to the next step.
 
