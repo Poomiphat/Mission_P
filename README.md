@@ -146,10 +146,13 @@ After Testing Click "Stop"
 
 ![messageImage_1681101203802](https://user-images.githubusercontent.com/81687385/230826508-15c36360-0453-4fa1-b5a6-390c7672ef8c.jpg)
 
-   * #### 3.4) Click Open  and Select "Main_m1_Animated.blocky"
+   * #### 3.4) Click Open  and Select "Main_m1_Animated.blocky", Go to Documents--> Industry4.0_Animation --> Dobot m1
+![messageImage_1681102801270](https://user-images.githubusercontent.com/81687385/230829518-0c8120cb-e801-46d0-b94f-fec95ecd1647.jpg)
+
 
 
    * #### 3.5) Start
+![messageImage_1681102630995](https://user-images.githubusercontent.com/81687385/230829534-bc426891-d53b-4851-be8c-fefab693cb94.jpg)
 
    *************Waring*******************
 
