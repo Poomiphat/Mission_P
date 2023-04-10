@@ -166,9 +166,10 @@ After Testing Click "Stop"
    **** เนื่องจากว่าตัวโปรแกรมที่ทำการรันนั้นไม่สามารถที่จะอับโหลดลงไปที่ตัวแขนกลได้ตรงๆ จำเป็นต้องเชื่อมต่อสาย USB Dobot กับ PC เอาไว้ตลอดในระหว่างการทำงาน ****
 </h5>
  
-Note; if you have a Dobot Error message form Dobot After start blocky code, if you do not have any errors, you can go the next step.
+<h5> warning </h5>; if you have a Dobot Error message form Dobot After start blocky code, if you do not have any errors, you can go the next step.
 
 Just like it
+
 ![image](https://user-images.githubusercontent.com/81687385/230831342-fe7e74f6-ac15-4fef-85a7-47646ff9f822.png)
 
 1) Go to menu bar Click on "Tools" and Select "Alarm Log..."
