@@ -200,6 +200,6 @@ if you use the PC in robot room@AIC you can Follow the steps below, If not you s
 * #### 4.1) Open cmd, and run node-red 
    <div>
   <pre><code> 
-    node-red 
+     node-red 
   </code></pre>
    </div>
