@@ -167,12 +167,13 @@ After Testing Click "Stop"
 </h5>
  
 Note; if you have a Dobot Error message form Dobot After start blocky code, if you do not have any errors, you can go the next step.
+
 Just like it
 ![image](https://user-images.githubusercontent.com/81687385/230831342-fe7e74f6-ac15-4fef-85a7-47646ff9f822.png)
 
 1) Go to menu bar Click on "Tools" and Select "Alarm Log..."
 <p align="center">
-           <img width="682" height="586" src="https://user-images.githubusercontent.com/81687385/230832342-a8c8d12f-569d-4cdf-a15f-4c1fd7ce4cf6.jpg">
+      <img width="682" height="586" src="https://user-images.githubusercontent.com/81687385/230832342-a8c8d12f-569d-4cdf-a15f-4c1fd7ce4cf6.jpg">
 </p>
 
 
