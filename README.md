@@ -173,9 +173,8 @@ Just like it
 
 1) Go to menu bar Click on "Tools" and Select "Alarm Log..."
 <p align="center">
-      <img width="682" height="586" src="https://user-images.githubusercontent.com/81687385/230832342-a8c8d12f-569d-4cdf-a15f-4c1fd7ce4cf6.jpg">
+      <img width="500" height="430" src="https://user-images.githubusercontent.com/81687385/230832832-8eabda24-bf8e-4b3c-bcb2-fbeebe23b1aa.jpg">
 </p>
-
 
 
 
