@@ -117,7 +117,7 @@ Verify that the PC can communicate with the PLC, Go back the GX work3 and Go to 
 
 ![messageImage_1681066604911](https://user-images.githubusercontent.com/81687385/230791408-5b9cf542-b60c-43fc-88ff-d4c05b24f701.jpg)
    
-### Step 3) Upload the Dobot Program to Dobot m1
+### Step 3) Running the Dobot Program to Dobot m1
   
   * #### 3.1) Open Program "M1 Studio" and Connect Dobot Arm to PC with USB form Dobot
   
@@ -166,9 +166,10 @@ After Testing Click "Stop"
    **** เนื่องจากว่าตัวโปรแกรมที่ทำการรันนั้นไม่สามารถที่จะอับโหลดลงไปที่ตัวแขนกลได้ตรงๆ จำเป็นต้องเชื่อมต่อสาย USB Dobot กับ PC เอาไว้ตลอดในระหว่างการทำงาน ****
 </h5>
  
-<h5> warning </h5>; if you have a Dobot Error message form Dobot After start blocky code, if you do not have any errors, you can go the next step.
 
-Just like it
+Warning: If you have  error message from Dobot after starting the Blockly code, you should clear the error first. However if there are no errors, you can proceed to the next step.
+
+Error message Just like it
 
 ![image](https://user-images.githubusercontent.com/81687385/230831342-fe7e74f6-ac15-4fef-85a7-47646ff9f822.png)
 
@@ -176,6 +177,11 @@ Just like it
 <p align="center">
       <img width="500" height="430" src="https://user-images.githubusercontent.com/81687385/230832832-8eabda24-bf8e-4b3c-bcb2-fbeebe23b1aa.jpg">
 </p>
+
+2) Go to menu bar Click on "Tools" and Select "Alarm Log..."
+![messageImage_1681105255468](https://user-images.githubusercontent.com/81687385/230834160-820594dd-b8b7-4ad4-a019-0c10f845e558.jpg)
+
+3) After reboot Dobot-m1 you can Try Step 3) Running the Dobot Program to Dobot m1
 
 
 
