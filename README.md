@@ -199,4 +199,6 @@ if you use the PC in robot room@AIC you can Follow the steps below, If not you s
 
 * #### 4.1) Open cmd, and run node-red 
   <pre><code> node-red </code></pre>
+  
+* #### 4.2) Copylink or ctrl+cilck, Open on web browser
 
