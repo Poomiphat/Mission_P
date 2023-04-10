@@ -198,4 +198,8 @@ Error message Just like it
 if you use the PC in robot room@AIC you can Follow the steps below, If not you should to install node-red and important [palleete](#software-component) on your laptop and After intall import "Proect-Demo.json" in your node-red
 
 * #### 4.1) Open cmd, and run node-red 
-   
+   <div>
+  <pre><code> 
+    // Your code here 
+  </code></pre>
+   </div>
