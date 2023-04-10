@@ -8,6 +8,10 @@ by 62050216 Poomipat, A student in Embedded System Engineering at Burapha Univer
 *****This repository is intended for individuals who are interested in studying and further development projects related the Industry 4.0@AIC Center*****
          
          **** if you have any problem you can contack me Everytime, Email: Poomuipat05@gmail.com or Fb: Poomiphat Klantad ****
+         
+ ### Show case --> https://youtu.be/KIOvzE9kMek    
+         
+         
 # Component
 ### Hardware Component:
  * PLC fx5u-32mr/es
