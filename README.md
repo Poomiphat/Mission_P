@@ -216,6 +216,11 @@ if you use the PC in robot room@AIC you can Follow the steps below, If not you s
 ![messageImage_1680855753543](https://user-images.githubusercontent.com/81687385/230846371-c0b75910-a575-440e-8fc9-054575fd137b.jpg)
 
 ### Step 5) Enjoy with my Project
+
+ข้อควรระวัง: สำหรับโปรแกรมโรบอทนี้สำหรับ สาธิตการทำงานเบื้องต้น และยังไม่สามารถที่จะรองรับการคัดแยกชิ้นงานที่เหมือนกันหลายๆ อันได้ถ้าจะทำการทดสอบให้ ยิบชิ้นงานที่ถูกคัดแยกแล้วจากตัว พาเรทออกด้วย ไม่งั้นจะเกิดปัญหากับตัวแขนกลและอาจเกิดความเสียให้ได้ โปรดระมัดระวัง
+
+Warning: If you want to conduct a test, please remove the sorted workpieces from the pallet to prevent damage to the robot arm  Please be careful.
+
    * #### 5.1) Push Button S1 for start machine
    
 ![messageImage_1681110648782](https://user-images.githubusercontent.com/81687385/230847666-f958842c-0a14-46e7-a3f3-94a5632d5e07.jpg)
