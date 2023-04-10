@@ -217,13 +217,22 @@ if you use the PC in robot room@AIC you can Follow the steps below, If not you s
 
 ### Step 5) Enjoy with my Project
 
-<span style="color: blue">This text is blue</span>
+<h4 align="center">
+   **** Warning ****
+</h4>
 
-<font color="red">ข้อควรระวัง</font>
+<h5 align="center">
+   **** If you want to conduct a test, please remove the sorted workpieces from the pallet to prevent damage to the robot arm  Please be careful. ****
+</h5>
+ 
+ 
+ <h4 align="center">
+********* ข้อควรระวัง *********
+</h4>
 
-:สำหรับโปรแกรมโรบอทนี้สำหรับ สาธิตการทำงานเบื้องต้น และยังไม่สามารถที่จะรองรับการคัดแยกชิ้นงานที่เหมือนกันหลายๆ อันได้ถ้าจะทำการทดสอบให้ ยิบชิ้นงานที่ถูกคัดแยกแล้วจากตัว พาเรทออกด้วย ไม่งั้นจะเกิดปัญหากับตัวแขนกลและอาจเกิดความเสียให้ได้ โปรดระมัดระวัง</span>
-
-<span style="color:red">Warning</span>: If you want to conduct a test, please remove the sorted workpieces from the pallet to prevent damage to the robot arm  Please be careful.
+<h5 align="center">
+   **** สำหรับโปรแกรมโรบอทนี้สำหรับ สาธิตการทำงานเบื้องต้น และยังไม่สามารถที่จะรองรับการคัดแยกชิ้นงานที่เหมือนกันหลายๆ อันได้ถ้าจะทำการทดสอบให้ ยิบชิ้นงานที่ถูกคัดแยกแล้วจากตัว พาเรทออกด้วย ไม่งั้นจะเกิดปัญหากับตัวแขนกลและอาจเกิดความเสียให้ได้ โปรดระมัดระวัง ****
+</h5>
 
 
 
