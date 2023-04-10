@@ -6,7 +6,8 @@ Moritoring System Project using PLC(Mitsubishi FX5U-32MR/ES), Modbus Protocol an
 by 62050216 Poomipat, A student in Embedded System Engineering at Burapha University.
 
 *****This repository is intended for individuals who are interested in studying and further development projects related the Industry 4.0@AIC Center*****
-
+         
+         **** if you have any problem you can contack me Everytime, Email: Poomuipat05@gmail.com or Fb: Poomiphat Klantad ****
 # Component
 ### Hardware Component:
  * PLC fx5u-32mr/es
@@ -227,7 +228,8 @@ if you use the PC in robot room@AIC you can Follow the steps below, If not you s
 After you enjoy my project, You should to Close the system every time
   
   * #### 6.1) befor Shut down a Dobot m1,make sure the Program in M1studio window is Stop mode
-  
+  ![messageImage_1681111428151](https://user-images.githubusercontent.com/81687385/230850685-79fd2ead-d6ce-4549-ad1d-b0660bd678e3.jpg)
+
   * #### 6.2) Close the air tank and After Close the pneumatic valve
   
   * #### 6.3) Slide PLC to Stop mode
