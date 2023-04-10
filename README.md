@@ -252,9 +252,11 @@ After you enjoy my project, You should to Close the system every time
   ![messageImage_1681111428151](https://user-images.githubusercontent.com/81687385/230850685-79fd2ead-d6ce-4549-ad1d-b0660bd678e3.jpg)
 
   * #### 6.2) Close the air tank and After Close the pneumatic valve
-  
+  ![messageImage_1681111961665](https://user-images.githubusercontent.com/81687385/230853654-245f6303-1012-4788-9a5b-669eb4df2f89.jpg)
+
   * #### 6.3) Slide PLC to Stop mode
+![messageImage_1681112858883](https://user-images.githubusercontent.com/81687385/230853845-770aec0c-1a84-4b61-b861-cfdd19426193.jpg)
 
   * #### 6.3) breaker power off 
-  
+![messageImage_1681112876518](https://user-images.githubusercontent.com/81687385/230853921-dd14d52e-30dc-437d-b278-44873203b6be.jpg)
 
