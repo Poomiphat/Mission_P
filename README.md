@@ -211,7 +211,7 @@ if you use the PC in robot room@AIC you can Follow the steps below, If not you s
    </p>
    
  * #### 4.4) Open the Node-red Dashboard and enjoy with my Project
- ![image](https://user-images.githubusercontent.com/81687385/230846287-22d73a48-eb98-427c-b7da-ea1864fa30bc.png)
 
+![messageImage_1680855753543](https://user-images.githubusercontent.com/81687385/230846371-c0b75910-a575-440e-8fc9-054575fd137b.jpg)
 
 
