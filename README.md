@@ -158,6 +158,10 @@ After Testing Click "Stop"
 ********* warning *********
 </h4>
 
+<h5 align="center">
+   **** In the Dobot program(input/output) 0= Woking, 1= Stop ****
+</h5>
+
 <h4 align="center">
    **** You must use the USB from the robot to connect Dobot M1 and PC because the program cannot be loaded directly into Dobot M1. ****
 </h4>
