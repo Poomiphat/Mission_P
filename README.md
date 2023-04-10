@@ -154,7 +154,8 @@ After Testing Click "Stop"
    * #### 3.5) Start
 ![messageImage_1681102630995](https://user-images.githubusercontent.com/81687385/230829534-bc426891-d53b-4851-be8c-fefab693cb94.jpg)
 
-   ************* warning *******************
+   ************* You must use the USB from the robot to connect Dobot M1 and PC because the program cannot be loaded directly into Dobot M1. *******************
+   ************* เนื่องจากว่าตัวโปรแกรมที่ทำการรันนั้นไม่สามารถที่จะอับโหลดลงไปที่ตัวแขนกลได้ตรงๆ จำเป็นต้องเชื่อมต่อสาย USB Dobot กับ PC เอาไว้ตลอดในระหว่างการทำงาน *******************
 
 
 
