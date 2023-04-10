@@ -205,6 +205,9 @@ if you use the PC in robot room@AIC you can Follow the steps below, If not you s
 
 ![messageImage_1680855676048](https://user-images.githubusercontent.com/81687385/230844383-600fcefc-fc63-4510-a203-90c2a6a16db8.jpg)
 
-
+* #### 4.3) Check ip in the Modbus Node is "192.168.137.250(PLC)"
+<p align="center">
+           <img width="500" height="442" src="https://user-images.githubusercontent.com/81687385/230845591-e12217fb-525a-4a27-a353-7f6bde72ef3e.jpg">
+   </p>
 
 
