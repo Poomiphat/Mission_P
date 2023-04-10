@@ -12,7 +12,7 @@ by 62050216 Poomipat, A student in Embedded System Engineering at Burapha Univer
  * PLC fx5u-32mr/es
  * Demonstration Kit of an automated sorting system using PLC and Dobot Arm. 
 
-### Software Component{#Software-Component-id}:
+### Software Component {#Software-Component-id} :
  * Node-Red
    Request Plugin
      * node-red-dashboard (ver 3.2.0 or latest version)
