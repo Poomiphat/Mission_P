@@ -166,7 +166,7 @@ After Testing Click "Stop"
    **** เนื่องจากว่าตัวโปรแกรมที่ทำการรันนั้นไม่สามารถที่จะอับโหลดลงไปที่ตัวแขนกลได้ตรงๆ จำเป็นต้องเชื่อมต่อสาย USB Dobot กับ PC เอาไว้ตลอดในระหว่างการทำงาน ****
 </h5>
  
-
+Note; if you have a Dobot Error message form Dobot 
 
 
 
