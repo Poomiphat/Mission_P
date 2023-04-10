@@ -32,7 +32,6 @@ by 62050216 Poomipat, A student in Embedded System Engineering at Burapha Univer
  
 **** The PC in the robot room at AIC already has the necessary components for use. ****
 
-
 # Intro for Demonstration Kit:
 <h3 align="center">
    Components of the demonstration kit
