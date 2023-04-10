@@ -183,5 +183,7 @@ Error message Just like it
 
 3) After reboot Dobot-m1 you can Try Step 3) agian,fist run the "test.playload" for testing, After run "Main_m1_Animated.blocky" and makesure you stop to "test.playload" befor.
 
-### Step 4) Running the node-red flow; if you use the PC in robot room@AIC you can Follow the steps below
+### Step 4) Running the node-red flow
+
+if you use the PC in robot room@AIC you can Follow the steps below, If not you should to install node-red on your laptop and Download ""
 
