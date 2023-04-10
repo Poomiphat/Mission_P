@@ -144,6 +144,7 @@ After Testing Dobot Click "Stop"
 
    * #### 3.3) Upload Program main to Dobot m1, Go to Tool menu --> Select Blocky
 
+![messageImage_1681101203802](https://user-images.githubusercontent.com/81687385/230826508-15c36360-0453-4fa1-b5a6-390c7672ef8c.jpg)
 
    * #### 3.4) Click Open  and Select "Main_m1_Animated.blocky"
 
