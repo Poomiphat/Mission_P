@@ -7,7 +7,7 @@ by 62050216 Poomipat, A student in Embedded System Engineering at Burapha Univer
 
 *****This repository is intended for individuals who are interested in studying and further development projects related the Industry 4.0@AIC Center*****
          
-         **** if you have any problem you can contack me Everytime, Email: Poomuipat05@gmail.com or Fb: Poomiphat Klantad ****
+         **** if you have any problem you can contact me Everytime, Email: Poomipat05@gmail.com or Fb: Poomiphat Klantad ****
          
  #### Show case --> https://youtu.be/KIOvzE9kMek    
  #### My Document 1 --> https://www.dropbox.com/scl/fi/t2itm3f6cogz8aaudnuwt/0_Project-PLC-to-do-list.paper?dl=0&rlkey=7asyuhm9n2hx1lg2pyk0zx6j3
