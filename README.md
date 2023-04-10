@@ -222,3 +222,16 @@ if you use the PC in robot room@AIC you can Follow the steps below, If not you s
    * #### 5.2) You will see animation working on Node-Red Dashboard
    
 ![ACE8AB16-3140-43EC-BD8E-878C9F438703](https://user-images.githubusercontent.com/81687385/230848146-5d96babc-8860-4ec2-b377-afb22daea667.jpg)
+
+### Step 6) How to Close the system
+After you enjoy my project, You should to Close the system every time
+  
+  * #### 6.1) befor Shut down a Dobot m1,make sure the Program in M1studio window is Stop mode
+  
+  * #### 6.2) Close the air tank and After Close the pneumatic valve
+  
+  * #### 6.3) Slide PLC to Stop mode
+
+  * #### 6.3) breaker power off 
+  
+
