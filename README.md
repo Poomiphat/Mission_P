@@ -12,7 +12,7 @@ by 62050216 Poomipat, A student in Embedded System Engineering at Burapha Univer
  * PLC fx5u-32mr/es
  * Demonstration Kit of an automated sorting system using PLC and Dobot Arm. 
 
-### Software Component:
+### Software Component{#Software-Component-id}:
  * Node-Red
    Request Plugin
      * node-red-dashboard (ver 3.2.0 or latest version)
@@ -195,5 +195,5 @@ Error message Just like it
 
 ### Step 4) Running the node-red flow
 
-if you use the PC in robot room@AIC you can Follow the steps below, If not you should to install node-red and important palette on your laptop and After intall import "Proect-Demo.json" in your node-red
+if you use the PC in robot room@AIC you can Follow the steps below, If not you should to install node-red and important palette [Link Text](#Software-Component-id) on your laptop and After intall import "Proect-Demo.json" in your node-red
 
