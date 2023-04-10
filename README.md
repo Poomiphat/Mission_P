@@ -171,7 +171,10 @@ Just like it
 ![image](https://user-images.githubusercontent.com/81687385/230831342-fe7e74f6-ac15-4fef-85a7-47646ff9f822.png)
 
 1) Go to menu bar Click on "Tools" and Select "Alarm Log..."
-![messageImage_1681104121327](https://user-images.githubusercontent.com/81687385/230832342-a8c8d12f-569d-4cdf-a15f-4c1fd7ce4cf6.jpg)
+<p align="center">
+           <img width="682" height="586" src="https://user-images.githubusercontent.com/81687385/230832342-a8c8d12f-569d-4cdf-a15f-4c1fd7ce4cf6.jpg">
+</p>
+
 
 
 
