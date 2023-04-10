@@ -72,6 +72,8 @@ by 62050216 Poomipat, A student in Embedded System Engineering at Burapha Univer
 
 </div>
 
+Note: สวนนี้เป็นเพียงการแนะนำเบื้องต้น ถ้าสนใจเกี่ยวกับ PLC หรือ  Dobot สามารถที่จะเข้าไปศึกษาเพิ่มเติมได้ใน โฟเดอร์ PLC&M1 Manual ผมได้ทำการอัปโหลดไว้ใน repo นี้แล้ว
+
 # Getting Started
    ### Step 1) System Environment Set-UP
    * #### 1.1) System Power:ON
