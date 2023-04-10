@@ -181,8 +181,7 @@ Error message Just like it
 2) Go to menu bar Click on "Tools" and Select "Alarm Log..."
 ![messageImage_1681105255468](https://user-images.githubusercontent.com/81687385/230834160-820594dd-b8b7-4ad4-a019-0c10f845e558.jpg)
 
-3) After reboot Dobot-m1 you can Try Step 3) agian, You should run the "test.playload" for testing , run "Main_m1_Animated.blocky" and makesure you stop to "test.playload" befor
-
+3) After reboot Dobot-m1 you can Try Step 3) agian,fist run the "test.playload" for testing, After run "Main_m1_Animated.blocky" and makesure you stop to "test.playload" befor.
 
 
 
