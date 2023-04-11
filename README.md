@@ -27,8 +27,8 @@ by 62050216 Poomipat, A student in Embedded System Engineering at Burapha Univer
      * node-red-contrib-ui-svg (v2.3.1 or latest version)
      * node-red-contrib-drawsvg (v1.3.0 or latest version)
  * GX Work3 (v1.076E or lastest version)
- * M1 Studio
- * inkscape
+ * M1 Studio (dobot program)
+ * inkscape (svg editor)
  
 **** The PC in the robot room at AIC already has the necessary components for use. ****
 
