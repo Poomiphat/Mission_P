@@ -78,6 +78,7 @@ by 62050216 Poomipat, A student in Embedded System Engineering at Burapha Univer
 </div>
 
 Note: ส่วนนี้เป็นเพียงการแนะนำเบื้องต้น ถ้าสนใจเกี่ยวกับ PLC หรือ  Dobot สามารถที่จะเข้าไปศึกษาเพิ่มเติมได้ใน โฟเดอร์ PLC&M1 Manual ผมได้ทำการอัปโหลดไว้ใน repo นี้แล้ว
+*******************  พื้นฐานสำหรับการเขียนโปรแกรม Ladder ที่จำเป็นต้องรู้จักร คือ 1) Self Holding และ 2) interlock coil *************************
 
 # Getting Started
    ### Step 1) System Environment Set-UP
